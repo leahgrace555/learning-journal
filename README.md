@@ -13,7 +13,7 @@ According to [this](https://www.atlassian.com/blog/inside-atlassian/growth-minds
 And remember that challenges are what help you grow
 
 ### 2. Criticism (if it's constructive) should not be ignored
-Chances are, people who offer constructive criticism are looling out for you and want to see you improve
+Chances are, people who offer constructive criticism are looking out for you and want to see you improve
 
 ### 3. Others' success should be an inspiration
 Not a threat. Remember that successful colleagues and peers may have valuable insights that can help you succeed as well.
