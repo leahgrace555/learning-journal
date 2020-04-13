@@ -1,5 +1,7 @@
 # What I've Learned
 
+[About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md)
+
 Markdown is a relatively simple way to change the styling of text on a webpage.
 For example, you can make text look like:
 - **This** by typing ` **this** `
