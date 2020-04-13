@@ -61,3 +61,37 @@ By typing:
 * Thing 3
 * And that other thing
 ````
+
+## Linking to Websites
+
+its very common to see websites include clickable links to other websites. For example, I included a link to mu GitHub profile on another page of this site. Markdown in GutHub can automatically recognize URLs and create links to their pages like this:
+
+https://github.com/leahgrace555
+
+By simply copying and pasting the URL. But if I wanted so say "Click [this](https://github.com/leahgrace555) to go to my GitHub profile", I could use the following code to make any word a clickable link:
+
+````
+[The text you want to be clickable](www.instertURLhere.com)
+````
+
+## Block Quotes
+
+To insert a quote like this:
+
+>"this is how you do a block quote" - Leah Russo
+
+use this code:
+
+````
+>"this is how you do a block quote" - Leah Russo
+````
+
+## Final Thoughts
+
+This exercise really helped me to understand the workflow of GitHub much better. At first, the concepts of creating branches, commits and pull requests really confused me but now I understand the value of editing non-destructively in a branch separate from the master. Branches allow you to test new code free of consequences before merging it into a full project. With a simple project like this, making a few changes that cause something to not work correctly isn't very serious, but with more complicated projects, I can see that using this kind of workflow will have a lot of benefits and make collaborative work much easier. 
+
+
+
+
+
+
