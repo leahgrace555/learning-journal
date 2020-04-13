@@ -1,6 +1,6 @@
 # About Me 
 
-[About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md)
+[Home](README.md) || [About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md)
 
 I am an aspiring web and mobile app developer. 
 
