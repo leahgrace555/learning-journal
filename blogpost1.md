@@ -4,8 +4,14 @@
 
 Markdown is a relatively simple way to change the styling of text on a webpage.
 For example, you can make text look like:
-- **This** by typing ` **this** `
-- Or *this* by typing ` *this* `
+- **This** by typing 
+```` 
+**this**
+````
+- Or *this* by typing 
+```` 
+*this* 
+````
 
 It also took me a little while to figure out that surrounding code with backticks is how you add the raw code to a webpage. 
 Seeing "Type *this* to make it look like *this* on the rendered webpage wasn't very helpful. 
