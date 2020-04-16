@@ -1,3 +1,5 @@
+[Home](README.md) || [About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md) || [Blog Post 2](blog-post-2.md)
+
 # What is a Text Editor?
 A text editor is software that allows you to manage text, especially text involved with building websites. 
 There are many different text editors available and understanding the different features will help you pick the right one for your needs. 
