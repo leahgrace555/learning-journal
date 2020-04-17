@@ -1,6 +1,6 @@
 # What I've Learned
 
-[Home](README.md) || [About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md) || [Blog Post 2](blog-post-2.md)
+[Home](README.md) || [About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md) || [Blog Post 2](blogpost2.md)
 
 Markdown is a relatively simple way to change the styling of text on a webpage.
 For example, you can make text look like:
