@@ -1,7 +1,7 @@
+[Home](README.md) || [About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md) || [Blog Post 2](blogpost2.md)|| [Blog Post 3](blogpost3.md)
+
 # Learning Journal
 for Leah Russo
-
-[Home](README.md) || [About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md) || [Blog Post 2](blogpost2.md)
 
 ## What Is The Growth Mindset? 
 The growth mindset is the belief that goals are acheived through effort and perserverence, while talent is simply a starting point. 

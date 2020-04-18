@@ -1,3 +1,5 @@
+[Home](README.md) || [About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md) || [Blog Post 2](blogpost2.md)|| [Blog Post 3](blogpost3.md)
+
 # A Guide to Git
 
 Git is a Distributed Version Control System (or DVCS for short) that stores versions of files as snapshots each time you save changes, or "commit", a project. Git tracks changes made to files or directories and is set up to minimize the possibility of damage to files and data loss. 
