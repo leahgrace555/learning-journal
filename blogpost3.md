@@ -39,5 +39,6 @@ $ git commit -a
 ````
 Push changes using
 ````
-$ git push origin master
+$ git push [remote-name] [branch-name]
 ````
+
