@@ -1,4 +1,4 @@
-[Home](README.md) || [About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md) || [Blog Post 2](blogpost2.md)|| [Blog Post 3](blogpost3.md)
+[Home](README.md) || [My GitHub](https://github.com/leahgrace555) || [The Growth Mindset](thegrowthmindset.md) || [Learning Markdown](blogpost1.md) || [Text Editors](blogpost2.md)|| [Terminal Cheatsheet](terminalcheatsheet.md) || [Guide to Git](blogpost3.md)
 
 # What I've Learned
 
@@ -56,7 +56,7 @@ by typing:
 4. Etc..
 ````
 
-And create an unordered List like this:
+And create an unordered list like this:
 
 * Thing 1 
 * Thing 2
@@ -73,7 +73,7 @@ By typing:
 
 ## Linking to Websites
 
-its very common to see websites include clickable links to other websites. For example, I included a link to mu GitHub profile on another page of this site. Markdown in GutHub can automatically recognize URLs and create links to their pages like this:
+It's very common to see websites include clickable links to other websites. For example, I included a link to my GitHub profile on another page of this site. Markdown in GitHub can automatically recognize URLs and create links to their pages like this:
 
 https://github.com/leahgrace555
 

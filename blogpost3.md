@@ -1,4 +1,4 @@
-[Home](README.md) || [About Me](About-Me.md) || [My GitHub](https://github.com/leahgrace555) || [Blog Post 1](blogpost1.md) || [Blog Post 2](blogpost2.md)|| [Blog Post 3](blogpost3.md)
+[Home](README.md) || [My GitHub](https://github.com/leahgrace555) || [The Growth Mindset](thegrowthmindset.md) || [Learning Markdown](blogpost1.md) || [Text Editors](blogpost2.md)|| [Terminal Cheatsheet](terminalcheatsheet.md) || [Guide to Git](blogpost3.md)
 
 # A Guide to Git
 
@@ -10,7 +10,7 @@ Files in Git reside in three main states:
 - ***Staged*** files are files that are flagged to commit the changed version to the next snapshot
 
 Additionally, files in a checked out, or "working" copy of a project file are either *tracked* or *untracked*
-- ***Tracked*** are part of the most recent file snapshot an can be modified, unmodified or staged. 
+- ***Tracked*** files are part of the most recent file snapshot and can be modified, unmodified or staged. 
 - ***Untracked*** files were not included in the most recent snapshot and are not currently in a staging area.
 
 If you have made changes to a file, but are not ready to commit the changes, you can use ` git stash ` command to temporarily remove them without losing the changes you have made. Reverse this action using ` git stash apply `. 
