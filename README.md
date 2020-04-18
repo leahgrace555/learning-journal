@@ -3,6 +3,21 @@
 # Learning Journal
 for Leah Russo
 
+## Table of Contents
+
+1. [What is the Growth Mindset](thegrowthmindset.md)
+
+2. [Learning Markdown](blogpost1.md)
+
+3. [What are Text Editors](blogpost2.md)
+
+4. [Terminal "Cheatsheet"](terminalcheatsheet.md)
+
+5. [A Guide to Git](blogpost3.md)
+
+
+## About me 
+
 <p align="center">
   <img width="100" height="100" src="images\Headshot codefellows.jpg">
 </p>
@@ -17,16 +32,3 @@ I am using PC running Windows 10 to build this project.
 <p align="center">
   <a href="https://github.com/leahgrace555" >My Github profile.</a>
 </p>
-
-
-## Table of Contents
-
-1. [What is the Growth Mindset](thegrowthmindset.md)
-
-2. [Learning Markdown](blogpost1.md)
-
-3. [What are Text Editors](blogpost2.md)
-
-4. [Terminal "Cheatsheet"](terminalcheatsheet.md)
-
-5. [A Guide to Git](blogpost3.md)
