@@ -18,7 +18,6 @@ I am using PC running Windows 10 to build this project.
   <a href="https://github.com/leahgrace555" >My Github profile.</a>
 </p>
 
-<br>
 
 ## Table of Contents
 
