@@ -2,7 +2,7 @@
 
 # How computers work
 
-All information stored and processed in computers in represented using electricity. How is this done?
+All information stored and processed in computers is represented using electricity. How is this done?
 
 ## Binary Number System
 - The smallest unit of information a computer deals with is a "bit" 
@@ -20,7 +20,7 @@ All computers perform the same 4 basic functions
 
 **Input** devices convert physical input to binary. These are things like keyboards, mice, microphone, camera, etc..
 
-**Memeory** devices store that infomration.
+**Memory** devices store that information.
 
 **Central Processing Unit** or CPU performs all the calculations.
 
