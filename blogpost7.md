@@ -6,7 +6,7 @@ A script is a series of instructions that a computer follows to acheive a goal
 
 When designing a script, consider these steps:
 
-1. Define the gaol
+1. Define the goal
 2. Design the script
 3. Code each step
 
