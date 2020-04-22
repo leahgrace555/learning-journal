@@ -23,6 +23,8 @@ for Leah Russo
 
 9. [How Computers Work](blogpost6b.md)
 
+10. [Programming With JavaScript](blogpost7.md)
+
 
 ## About me 
 
