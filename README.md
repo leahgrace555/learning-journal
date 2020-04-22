@@ -1,4 +1,4 @@
-[Home](README.md) || [My GitHub](https://github.com/leahgrace555) || [The Growth Mindset](thegrowthmindset.md) || [Learning Markdown](blogpost1.md) || [Text Editors](blogpost2.md)|| [Terminal Cheatsheet](terminalcheatsheet.md) || [Guide to Git](blogpost3.md) || [Structure & HTML](blogpost4.md) || [Styling Webpages](blogpost5.md) || [Javascript](blogpost6.md) || [How Computers Work](blogpost6b.md)
+[Home](README.md) || [My GitHub](https://github.com/leahgrace555)
 
 # Learning Journal
 for Leah Russo
@@ -14,6 +14,14 @@ for Leah Russo
 4. [Terminal "Cheatsheet"](terminalcheatsheet.md)
 
 5. [A Guide to Git](blogpost3.md)
+
+6. [Structure & HTML](blogpost4.md)
+
+7. [Styling Webpages](blogpost5.md)
+
+8. [Javascript](blogpost6.md)
+
+9. [How Computers Work](blogpost6b.md)
 
 
 ## About me 
