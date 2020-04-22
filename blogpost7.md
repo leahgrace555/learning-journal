@@ -30,7 +30,7 @@ Expressions rely on **operators** to create single values from two or more value
 |Decrement    | - -        | Subtracts one from the current value
 Modulus       | %          | Divides two values and returns the remainder|
 
-The order of operations apply here as they do in math. Multiplication and division are performed before addition and subtraction. To change the order of operations, use parenthasis to indicate which operation should be performed first. 
+The order of operations apply here as they do in math. Multiplication and division are performed before addition and subtraction. To change the order of operations, use parentheses to indicate which operation should be performed first. 
 
 ### String Operators:
 
