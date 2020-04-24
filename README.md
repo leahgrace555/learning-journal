@@ -25,8 +25,14 @@ for Leah Russo
 
 10. [Programming With JavaScript](blogpost7.md)
 
+11. [Loops and Operators](blogpost8.md)
+
+<br>
+
 
 ## About me 
+
+<br>
 
 <p align="center">
   <img width="100" height="100" src="images\Headshot codefellows.jpg">
